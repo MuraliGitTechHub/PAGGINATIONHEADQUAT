@@ -13,7 +13,6 @@ import com.sliderview.view.pagginationheadquat.model.ResultsItem
 import com.sliderview.view.pagginationheadquat.view.activities.HomeActivity
 import com.sliderview.view.pagginationheadquat.view.interfaceies.PaginationAdapterCallback
 
-
 /**
  * Created
  * Class do :

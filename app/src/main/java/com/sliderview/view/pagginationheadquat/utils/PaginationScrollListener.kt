@@ -25,3 +25,4 @@ abstract class PaginationScrollListener(layoutManager: LinearLayoutManager) : Re
     abstract fun isLastPage(): Boolean
     abstract fun isLoading(): Boolean
 }
+//This code is all about scrollview
